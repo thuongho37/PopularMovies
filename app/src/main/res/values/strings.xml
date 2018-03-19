@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+    <string name="detail_original_title">Original Title:</string>
+    <string name="detail_plot_summary">Plot Summary:</string>
+    <string name="detail_user_rating">User Rating:</string>
+    <string name="detail_release_date">Release Date:</string>
+</resources>
